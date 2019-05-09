@@ -1,1 +1,7 @@
+TREES input files:
 
+*.txt files are meteorological driver files. All *.txt files may be used for both pinon and juniper simulations.
+
+*mod files are plant hydraulic architecture (e.g., root layers, depths) files.
+
+*.p files are species specific parameter files
