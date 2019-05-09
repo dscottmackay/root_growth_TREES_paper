@@ -1,1 +1,5 @@
+TREES model code
 
+To compile:
+
+make trees3
